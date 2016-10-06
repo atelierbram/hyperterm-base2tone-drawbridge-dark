@@ -1,0 +1,24 @@
+{
+  "name": "hyperterm-base2tone-drawbridge-dark",
+  "version": "1.0.0",
+  "description": "HyperTerm theme base on DuoTone dark colorscheme for Atom by Simurai",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atelierbram/hyperterm-base2tone-drawbridge-dark.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "dark",
+    "duotone",
+    "duotones",
+    "base2tone"
+  ],
+  "author": "Bram de Haan (http://atelierbramdehaan.nl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atelierbram/hyperterm-base2tone-drawbridge-dark/issues"
+  },
+  "homepage": "https://github.com/atelierbram/hyperterm-base2tone-drawbridge-dark#readme"
+}
